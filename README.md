@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Imanisolace
+- 👋 Hi, I’m Daniel (@imanisolace)
 - 👀 I’m interested in data science 
 - 🌱 I’m currently learning maths and computer science 
 - 💞️ I’m looking to collaborate on data science 
