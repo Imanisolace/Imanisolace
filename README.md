@@ -6,6 +6,6 @@
 
    LinkedIn profile: https://www.linkedin.com/in/daniel-musembi-691040347
 
-  email: danielmunyali356@gmail.com
+  email: danielmunyali356@gmail.com / 
              danielmunyali5111@gmail.com
 
