@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daniel
-- 
+- applied math and comp sci graduate
 - 📫 How to reach me:
 
   WhatsApp contact link https://wa.me/qr/ATOJA2XM3OEPG1
