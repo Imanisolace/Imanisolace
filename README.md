@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Daniel (@imanisolace)
-- 👀 I’m interested in data science and data analysis 
-- 🌱 I’m currently learning maths and computer science 
-- 💞️ I’m looking to collaborate on data science and data analysis 
+- 👋 Hi, I’m Daniel
+- 
 - 📫 How to reach me:
 
   WhatsApp contact link https://wa.me/qr/ATOJA2XM3OEPG1
